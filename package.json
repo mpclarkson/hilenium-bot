@@ -1,9 +1,9 @@
 {
-  "name": "HileniumBot",
+  "name": "hibot",
   "version": "0.0.0",
   "private": true,
   "author": "matt@hilenium.com",
-  "description": "Super hero hilenium bot",
+  "description": "Super awesome hilenium bot",
   "dependencies": {
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
